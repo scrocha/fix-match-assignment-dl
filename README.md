@@ -1,6 +1,14 @@
-# Descrição do Trabalho
 
-## Implementação e Avaliação do FixMatch com CIFAR-10
+# Implementação e Avaliação do FixMatch com CIFAR-10
+
+---
+
+> ### **Grupo:**  
+> - Alessandra Belló Soares – Alessandrabellosoares@gmail.com – @AlessandraBello  
+> - Matheus Fillype Ferreira de Carvalho – matheuscarvalho210404@outlook.com – @MatCarvalho21  
+> - Sillas Rocha da Costa – sillasrocha29@gmail.com – @scrocha  
+
+---
 
 ### Objetivo
 Neste assignment, vocês implementarão o método FixMatch, uma técnica de aprendizado semi-supervisionado que combina aprendizado supervisionado e não supervisionado. O objetivo é aplicar o FixMatch ao dataset CIFAR-10 para treinar uma rede neural e avaliar os resultados obtidos com diferentes proporções de dados rotulados.
