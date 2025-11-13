@@ -10,6 +10,10 @@
 
 ---
 
+### [Link para o Vídeo de Aprendizado](https://gvmail-my.sharepoint.com/:v:/g/personal/b51073_fgv_edu_br/EeLPhsU6Ih9Bmo0QySvM6NIBzCHnalp33pJjVpc38A8xlA?e=hnYvS8)
+
+---
+
 ### Objetivo
 Neste assignment, vocês implementarão o método FixMatch, uma técnica de aprendizado semi-supervisionado que combina aprendizado supervisionado e não supervisionado. O objetivo é aplicar o FixMatch ao dataset CIFAR-10 para treinar uma rede neural e avaliar os resultados obtidos com diferentes proporções de dados rotulados.
 
